@@ -1,4 +1,4 @@
-# Algoritmos-debusca
+# Algoritmos-de-busca
 Implementa os algoritmos de ordenação
 
 1.    Bubblesort
